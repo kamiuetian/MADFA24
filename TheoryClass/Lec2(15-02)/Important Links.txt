@@ -1,0 +1,9 @@
+https://www.geeksforgeeks.org/introduction-to-javascript-engines/
+https://nodejs.org/en (for download)
+
+node --version (command to check node installation)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://www.w3schools.com/js/default.asp
+https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
