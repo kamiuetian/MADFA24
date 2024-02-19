@@ -32,3 +32,8 @@ let obj_student = {
 };
 /**access onject property */
 console.log(obj_student.name, obj_student["reg"]);
+/**Functions */
+function func1(x, y) {
+  return x + y;
+}
+let result=func1(5, 6);

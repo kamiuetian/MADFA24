@@ -1,0 +1,3 @@
+https://www.w3schools.com/js/js_functions.asp
+https://eloquentjavascript.net/05_higher_order.html
+https://www.codecademy.com/learn/game-dev-learn-javascript-higher-order-functions-and-iterators/modules/game-dev-learn-javascript-iterators/cheatsheet
