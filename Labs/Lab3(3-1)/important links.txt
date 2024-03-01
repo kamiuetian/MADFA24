@@ -1,0 +1,6 @@
+https://www.javascripttutorial.net/es6/
+https://www.w3schools.com/js/js_es6.asp
+Classes
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+Hoisting
+https://www.w3schools.com/js/js_hoisting.asp
