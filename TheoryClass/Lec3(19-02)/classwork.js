@@ -25,4 +25,6 @@ function Student(name, reg) {
 let std1 = new Student("ali", "01");
 let std2 = new Student("amir", "02");
 std1.cr = true;
-console.log(std1.cr, std2.name);
+Student.prototype.universityName = "CUI";
+console.log(std1);
+/**adding property to constructor */
