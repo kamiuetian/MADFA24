@@ -3,12 +3,14 @@ import { useState } from "react";
 import { Button, StyleSheet, Text, View } from "react-native";
 import Class1103 from "./Components/Class1103";
 import Class1403 from "./Components/Class1403";
+import Lab1503 from "./Components/Lab1503";
 /**component name and file name should be same */
 export default function App() {
   console.log("App component is rendered");
   return (
     <>
-      <Class1403></Class1403>
+      <Lab1503></Lab1503>
+      {/*<Class1403></Class1403>*/}
       {/*<Class1103>
         <Text>I am inside cla1103</Text>
       </Class1103>*}
