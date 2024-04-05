@@ -1,0 +1,10 @@
+Flexbox:
+https://reactnative.dev/docs/flexbox
+React Native Paper:
+https://callstack.github.io/react-native-paper/
+Nativewind:
+https://www.nativewind.dev/
+ReactNativeElements:
+https://reactnativeelements.com/docs
+gluestick:
+https://gluestack.io/

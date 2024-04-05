@@ -4,14 +4,31 @@ import { Button, StyleSheet, Text, View } from "react-native";
 import Class1103 from "./Components/Class1103";
 import Class1403 from "./Components/Class1403";
 import Lab1503 from "./Components/Lab1503";
+import CounterApp from "./Components/CounterApp";
+import Class1803 from "./Components/Class1803";
+import Lab2203 from "./Components/Lab2203";
+import Chessboard from "./Components/Chessboard";
+import Class2503_2 from "./Components/Class2503_2";
+import Lab2903 from "./Components/Lab2903";
+import { NavigationContainer } from "@react-navigation/native";
+import Class0104 from "./Components/Class0104";
 /**component name and file name should be same */
 export default function App() {
   console.log("App component is rendered");
+
   return (
-    <>
-      <Lab1503></Lab1503>
-      {/*<Class1403></Class1403>*/}
-      {/*<Class1103>
+    <NavigationContainer>
+      <>
+        <Class0104></Class0104>
+        {/*<Lab2903></Lab2903>*/}
+        {/*<Class2503_2></Class2503_2>*/}
+        {/*<Chessboard></Chessboard>*/}
+        {/*<Lab2203></Lab2203>*/}
+        {/* <Class1803></Class1803>*/}
+        {/*<CounterApp></CounterApp>*/}
+        {/*<Lab1503></Lab1503>*/}
+        {/*<Class1403></Class1403>*/}
+        {/*<Class1103>
         <Text>I am inside cla1103</Text>
       </Class1103>*}
       {/*<View style={styles.container}>
@@ -20,7 +37,8 @@ export default function App() {
         <Greeting name="aashir"></Greeting>
         <StatusBar style="auto" />
   </View>*/}
-    </>
+      </>
+    </NavigationContainer>
   );
 }
 /**Greeting */
