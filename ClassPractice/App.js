@@ -13,6 +13,7 @@ import Lab2903 from "./Components/Lab2903";
 import { NavigationContainer } from "@react-navigation/native";
 import Class0104 from "./Components/Class0104";
 import Class2504 from "./Components/Class2504";
+import Class0205 from "./Components/Class0205";
 /**component name and file name should be same */
 export default function App() {
   console.log("App component is rendered");
@@ -20,7 +21,8 @@ export default function App() {
   return (
     <NavigationContainer>
       <>
-        <Class2504></Class2504>
+        <Class0205></Class0205>
+        {/*<Class2504></Class2504>*/}
         {/*<Class0104></Class0104>*/}
         {/*<Lab2903></Lab2903>*/}
         {/*<Class2503_2></Class2503_2>*/}
