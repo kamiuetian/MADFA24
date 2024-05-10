@@ -1,0 +1,3 @@
+https://docs.expo.dev/versions/v51.0.0/sdk/camera/
+
+https://docs.expo.dev/versions/latest/sdk/sensors/
