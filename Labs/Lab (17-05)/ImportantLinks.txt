@@ -1,0 +1,7 @@
+https://react-redux.js.org/tutorials/quick-start
+
+https://www.youtube.com/watch?v=Ojp7Gq-XlWs
+
+https://www.youtube.com/watch?v=mJJwSG0T2BA
+
+https://www.geeksforgeeks.org/redux-thunk-vs-redux-saga-choosing-the-right-middleware/#:~:text=Redux%20Thunk%20is%20simpler%20and,asynchronous%20flows%20and%20larger%20applications.
